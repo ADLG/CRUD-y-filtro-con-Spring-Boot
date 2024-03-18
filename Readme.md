@@ -2,6 +2,10 @@ En este repositorio se encuentra una Aplicación para el desarrollo de un filtro
 -
 ## ***CRUD y filtro en Spring Boot***
 
+<div>
+	<img src="https://raw.githubusercontent.com/ADLG/CRUD-y-filtro-con-Spring-Boot/main/CRUD%20productos%20y%20filtro%208080.png">
+</div>
+
 ### Especificaciones:
 
 Project - Maven
